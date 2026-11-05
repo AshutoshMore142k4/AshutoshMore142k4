@@ -8,9 +8,9 @@
     <td width="50%" valign="top">
       <h3>Achievements</h3>
       <ul>
-        <li><b>Founder</b> — <a href="https://www.11startups.tech/">11Startups</a></li>
-        <li><b>Top 1,000 Semifinalist</b> — AWS 10,000 AIdeas</li>
-        <li><b>100+ active users</b> — <a href="https://grindsde.app/">GrindSDE</a></li>
+        <li><b>Founder</b> — <a href="https://www.11startups.tech/">11Startups(AI- Research)</a></li>
+        <li><b>International Semifinalist</b> — AWS AI hackathon(Compeging with devs around the globe)</li>
+        <li><b>500+ users</b> — <a href="https://grindsde.app/">GrindSDE</a></li>
         <li><b>Creator</b> — <a href="https://www.npmjs.com/package/codereportcard">codereportcard</a>, npm CLI</li>
       </ul>
     </td>
